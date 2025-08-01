@@ -8,7 +8,7 @@ This led us to a bigger question:
 ### Why Not HelloFresh?
 We tried meal kits like HelloFresh, hoping for a simple fix. But the recipes lacked flavor, portions were small, cooking took too long, and most importantly—it cost more than just buying groceries.
 
-![Dashboard view](public/posts/project-a/hellofresh-issue.png) 
+![Dashboard view](/posts/project-a/hellofresh-issue.png) 
 
 ### The Solution
 An AI-powered app that plans your weekly meals and delivers ingredients to your door — all based on your preferences.
@@ -17,7 +17,7 @@ Just type in your taste and preferred protein, and it returns:
 - A ready-to-order shopping cart
 
 You type in your taste and main meat, then it gives you back the recipes ands shopping cart link. 
-![Dashboard view](public/posts/project-a/app.png) 
+![Dashboard view](/posts/project-a/app.png) 
 
 ### How it Benefits?
 It doesn't just recommend, it benefits you by giving recipes that's 
@@ -53,5 +53,5 @@ After sharing the MVP with people in business, marketing, and tech, three clear 
 4. Use State of Art Marketing Stategy- Don't let your app sit in github. Two best strategies so far : [Cal AI](https://www.youtube.com/watch?v=wMk_t8F1rOc&t=25s), [Oishii](https://www.youtube.com/watch?v=L6RnmiAfcvQ)
 
 This second point rings especially true. Even at NovaTrade, we had to dig into client needs well before building—otherwise, you risk wasting time on the wrong solution.
-![Dashboard view](public/posts/project-a/talk-agri-ai.jpg) 
+![Dashboard view](/posts/project-a/talk-agri-ai.jpg) 
  

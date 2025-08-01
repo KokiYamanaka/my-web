@@ -15,4 +15,4 @@
 - Compiled an analysis report, summarized findings, and presented insights to the marketing team  
 
 ### Gallery  
-![Dashboard view](public/posts/project-f/cluster.png)
+![Dashboard view](/posts/project-f/cluster.png)

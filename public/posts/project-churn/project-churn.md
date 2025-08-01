@@ -26,5 +26,5 @@
 - He also mentioned that it would have been much better if I were on-site, as it would allow me to dig into issues more effectively and apply my data science experience and knowledge more directly
  
 ### Gallery  
-![Dashboard view](public/posts/project-churn/gallery.png)
+![Dashboard view](/posts/project-churn/gallery.png)
 

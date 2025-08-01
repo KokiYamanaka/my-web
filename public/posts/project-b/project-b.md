@@ -4,10 +4,10 @@ Our client is a construction component supplier with over 110 franchise location
 The supplier must then manually convert these lists into internal quotation documents by mapping the construction company’s terms to the supplier’s standardized internal product names.
 
 **Construction companies submission :** 
-![Dashboard view](public/posts/project-b/client_order_.png) 
+![Dashboard view](/posts/project-b/client_order_.png) 
 
 **Internal Quotation :** 
-![Dashboard view](public/posts/project-b/client_quotation.png) *Blue = Input | Red = Output*
+![Dashboard view](/posts/project-b/client_quotation.png) *Blue = Input | Red = Output*
 
  
 

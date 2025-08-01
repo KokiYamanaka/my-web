@@ -14,13 +14,13 @@ The service outputs estimated lost generation, calculated as:
 - Site: Chiba, Japan
 
 Panel Configuration : 
-![Dashboard view](public/posts/project-d/input-panel.png) 
+![Dashboard view](/posts/project-d/input-panel.png) 
 
 Hourly Weather Data : 
-![Dashboard view](public/posts/project-d/input-hour-data.png) 
+![Dashboard view](/posts/project-d/input-hour-data.png) 
 
 Actual Annual Power Generation : 
-![Dashboard view](public/posts/project-d/input-actual-power.png) 
+![Dashboard view](/posts/project-d/input-actual-power.png) 
 
  
 ### Overview 
@@ -30,10 +30,10 @@ Overview of old codebase
 - Mix of internal logic and external dependencies (e.g., use AWS for some compute)
 
 Overview of operations 
-![Dashboard view](public/posts/project-d/operation.png) 
+![Dashboard view](/posts/project-d/operation.png) 
 
 Snapshot of old code 
-![Dashboard view](public/posts/project-d/snapshot.png) 
+![Dashboard view](/posts/project-d/snapshot.png) 
 
 
 
@@ -86,7 +86,7 @@ We tackled several key challenges with creative LLM-driven strategies:
 
 5.  No Ground Truth for Testing → Reconstructed scientific calculations (e.g., solar declination angle) from scratch to manually derive expected outputs.
 
-    ![Dashboard view](public/posts/project-d/ground-truth-cal.png) 
+    ![Dashboard view](/posts/project-d/ground-truth-cal.png) 
 
     This was one of the most difficult technical challenges we faced.
     We had two options to generate ground truth:
@@ -102,7 +102,7 @@ We tackled several key challenges with creative LLM-driven strategies:
 
 This pipeline refactors a **single scientific submodule** — for example, computing how much shading affects solar panels based on sun position — from legacy MATLAB code into tested, modular Python.
 
-![Dashboard view](public/posts/project-d/solution.png) 
+![Dashboard view](/posts/project-d/solution.png) 
 
 It automates:
 - Translating MATLAB logic to Python

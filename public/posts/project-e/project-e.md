@@ -19,4 +19,4 @@ By the end of the 12-week program, each student selected a dataset of personal i
 The course is now actively being taught by my supervisor as part of the school's curriculum. 
 
 ### Gallery 
-![Dashboard view](public/posts/project-e/gallery.png) 
+![Dashboard view](/posts/project-e/gallery.png) 

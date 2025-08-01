@@ -1,6 +1,6 @@
 A system to help T-Company's marketing team expand customer accounts by visualizing organizational structure from a corporate number.
 
-![Dashboard view](public/posts/project-eview/treeview.png) 
+![Dashboard view](/posts/project-eview/treeview.png) 
 
 ## Project Summary
 
@@ -47,7 +47,7 @@ The below image implies the thinking.
 See raptor 3, it delivers 290 ton-force of thrust, compared to 230 tf for raptor 2. 
 
 The whole progress involves 1) questioning whether a thrust's sub component is really required 2)  delete if not 3) simplify the structure of thrust 4) & 5) use them in starship. 
-![Dashboard view](public/posts/project-eview/raptor.jpeg) 
+![Dashboard view](/posts/project-eview/raptor.jpeg) 
 
 Applying those ideas in our project : 
 1. **Make the requirement less dumb**  

@@ -3,7 +3,7 @@
 Our client, an IT job platform, uses keyword-based recommendations that miss semantic meaning—resulting in poor matches and lower user retention.
 
 See sample recommendation : 
-![Dashboard view](public/posts/project-c/jobpost.png) 
+![Dashboard view](/posts/project-c/jobpost.png) 
 
 
 ### The Solution
@@ -18,7 +18,7 @@ We built a pipeline that recommends relevant projects to freelancers using seman
 3. Matching: The structured data is converted into vector embeddings and compared against a project database using vector search to return semantically relevant matches.
 
 When freelancer and project descriptions are written with common information and structure, the recommendation increase significantly. See the sample below : 
-![Dashboard view](public/posts/project-c/sample.png) 
+![Dashboard view](/posts/project-c/sample.png) 
 
 
  
