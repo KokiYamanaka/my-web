@@ -11,7 +11,7 @@ export default function ProjectC() {
   const [content, setContent] = useState('')
 
   useEffect(() => {
-    fetch('/public/posts/project-c/project-c.md')
+    fetch('/posts/project-c/project-c.md')
       .then(res => res.text())
       .then(text => setContent(text))
   }, [])

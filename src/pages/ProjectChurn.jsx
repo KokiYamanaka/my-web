@@ -11,7 +11,7 @@ export default function ProjectChurn() {
   const [content, setContent] = useState('')
 
   useEffect(() => {
-    fetch('/public/posts/project-churn/project-churn.md')
+    fetch('/posts/project-churn/project-churn.md')
       .then(res => res.text())
       .then(text => setContent(text))
   }, [])

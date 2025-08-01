@@ -11,7 +11,7 @@ export default function ProjectEView() {
   const [content, setContent] = useState('')
 
   useEffect(() => {
-    fetch('/public/posts/project-eview/project-eview.md')
+    fetch('/posts/project-eview/project-eview.md')
       .then(res => res.text())
       .then(text => setContent(text))
   }, [])
